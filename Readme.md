@@ -3,6 +3,10 @@
 
 The below step-by-step walkthrough is the solution to project 5 of the Udacity Full Stack Web Developer Nanodegree and deploys the solution of project 3 on the virtual machine.
 
+The EC2 URL is : http://ec2-18-188-112-81.us-east-2.compute.amazonaws.com
+
+Local IP address: http://18.188.112.81
+
 # Configutation Steps
 
 ## 1. Create Development Environment: Launch Virtual Machine
